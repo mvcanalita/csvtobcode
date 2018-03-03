@@ -1,0 +1,9 @@
+D:\devEnv\windows\TheArchiver\CSVtoBARCODE\CSVtoBARCODE\bin\Debug\CSVtoBARCODE.exe.config
+D:\devEnv\windows\TheArchiver\CSVtoBARCODE\CSVtoBARCODE\bin\Debug\CSVtoBARCODE.exe
+D:\devEnv\windows\TheArchiver\CSVtoBARCODE\CSVtoBARCODE\bin\Debug\CSVtoBARCODE.pdb
+D:\devEnv\windows\TheArchiver\CSVtoBARCODE\CSVtoBARCODE\obj\Debug\CSVtoBARCODE.csprojResolveAssemblyReference.cache
+D:\devEnv\windows\TheArchiver\CSVtoBARCODE\CSVtoBARCODE\obj\Debug\CSVtoBARCODE.frmBarcodePrint.resources
+D:\devEnv\windows\TheArchiver\CSVtoBARCODE\CSVtoBARCODE\obj\Debug\CSVtoBARCODE.Properties.Resources.resources
+D:\devEnv\windows\TheArchiver\CSVtoBARCODE\CSVtoBARCODE\obj\Debug\CSVtoBARCODE.csproj.GenerateResource.Cache
+D:\devEnv\windows\TheArchiver\CSVtoBARCODE\CSVtoBARCODE\obj\Debug\CSVtoBARCODE.exe
+D:\devEnv\windows\TheArchiver\CSVtoBARCODE\CSVtoBARCODE\obj\Debug\CSVtoBARCODE.pdb
